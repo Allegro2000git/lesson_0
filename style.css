@@ -1,0 +1,10 @@
+body {
+	min-height: 100vh;
+}
+
+h1 {
+	text-align: center;
+	padding: 50px;
+	font-size: 40px;
+	font-weight: 700;
+}
